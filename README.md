@@ -2,8 +2,7 @@
 
 2019 yılı Mayıs ayında yaptığım bu proje; servo motorlarla kontrol edilen bir robot kolun, üzerine bağlı bir kalem aracılığıyla mevcut saati küçük bir yazı tahtasına yazması prensibine dayanır.
 
-![Projenin Çalışma Anı](https://i.imgur.com/O6tCg4N.gif)
-*(Öneri: `demo.mov` videonuzu bir GIF'e dönüştürüp bu şekilde ekleyebilir veya YouTube'a yükleyip bağlantısını paylaşabilirsiniz.)*
+![Projenin Çalışma Anı](https://github.com/user-attachments/assets/290ab018-7104-4345-952f-a8aa26fcf4fd)
 
 ---
 
